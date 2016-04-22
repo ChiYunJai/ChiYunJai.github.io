@@ -29,9 +29,9 @@
         <!--<colorMode>normal</colorMode>
         <width>3</width>-->
       </LineStyle>
-      <!--<LabelStyle>
+      <LabelStyle>
         <colorMode>normal</colorMode>
-      </LabelStyle>-->
+      </LabelStyle>
     </Style>
     <Placemark>
       <name>石崁頂</name>
