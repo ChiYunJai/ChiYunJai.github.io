@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>美食地圖</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>窩柢咖啡公寓</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/qfQonOIXlYls5jkxWrmHIgLmQcl8Ax84xXbyBM1wo4dCnU2c1sbr2k-aGeu8eDblYyiuYQxE5F2N2F8LDqyu2pwXXK8uDSLBEi3g7BPXDgf9aU3vWcKpI3LMJNvcwm60_zkxCcqhqGEtOg" height="200" width="auto" /><br><br>店名:窩柢咖啡公寓<br> 電話:04-27086808<br> 地址:台中西屯區杏林路27號(教師新村內)<br> 價格:低消一人一杯飲料]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/qfQonOIXlYls5jkxWrmHIgLmQcl8Ax84xXbyBM1wo4dCnU2c1sbr2k-aGeu8eDblYyiuYQxE5F2N2F8LDqyu2pwXXK8uDSLBEi3g7BPXDgf9aU3vWcKpI3LMJNvcwm60_zkxCcqhqGEtOg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.642057,24.167702,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>找路咖啡</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/8E_OSSf_hn3yAKy_iOUFS73qlbKuiXvDk5vhWzZgcNb-HW32TRrwMLMbkmt6y-ZwLOlVVuwmmt4zOP4dFZfJym96UYeYDdwWFc170gxQUxhlqo5IlKViaUGpDx6ZHbTpUWT7eCFVzDyq4w" height="200" width="auto" /><br><br>餐廳名稱： 找路咖啡<br> 消費時間： 2013/4<br> 地址： 台中市德化街320號<br> 電話： 04-2238 8199<br> 營業時間：11:00 - 21:00(週二公休)<br> 每人平均價位：250元<br> 無停車位 3分鐘路程有收費停車場]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/8E_OSSf_hn3yAKy_iOUFS73qlbKuiXvDk5vhWzZgcNb-HW32TRrwMLMbkmt6y-ZwLOlVVuwmmt4zOP4dFZfJym96UYeYDdwWFc170gxQUxhlqo5IlKViaUGpDx6ZHbTpUWT7eCFVzDyq4w</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.68192799999998,24.161678,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>52 Cafe</name>
+				<description><![CDATA[店名：［台中］52 Cafe<br> 地址：台中市西區五權西四街172號<br> 電話：04-2378-2252<br> 營業時間：8:00～20: 00（每月第二、四的星期一公休）<br> 平均消費：150元左右/人]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.66252300000001,24.133273,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>INO HOME</name>
+				<description><![CDATA[店名：INO HOME<br> 地址：台中市西區美村路一段564巷27號<br> 電話：04-23763353<br> 營業時間：09:00-21:00<br> 公休日：星期一<br> 部落格：http://inohome.pixnet.net/blog<br> Mail：inohome.service@gmail.com]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.660455,24.138714,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>小梗甜點咖啡</name>
+				<description><![CDATA[小梗甜點咖啡<br> https://www.facebook.com/terriersweets<br> 地址:台中市西區明義街52號<br> 電話: 04-23198852<br> 營業時間: 二 - 日 13:00 - 21:00]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.66064699999998,24.155054,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Random cafe</name>
+				<description><![CDATA[店名:Random cafe<br> 電話:04-23205089<br> 地址:台中市西區華美西街一段81號<br> 價格:$70up，不收服務費]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.65911500000001,24.154776,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>時光咖啡</name>
+				<description><![CDATA[時光咖啡<br>地址： 43446台中市龍井區藝術街61巷9號／Google地圖<br> 電話：04 2632 8168<br> 營業時間：1200-1900<br> 價位消費方式：100元/人。現金。無服務費<br> 停車：機車，可。汽車，全家停車]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.59330100000001,24.187385,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cafe Vanessa</name>
+				<description><![CDATA[地址：<br>台中市西區台中港路一段199巷1弄18號<br> 	營業時間：12：00 - 20：00 (周日公休)  <br> 電話：04 - 2329 7220]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.66552200000001,24.153006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>forro cafe</name>
+				<description><![CDATA[forro cafe<br> 地址：台中市精誠三街47號<br> 電話：04-23101661<br> 營業時間：PM10:00~10:00 (每周二店休)<br> 官網：http://forro.com.tw/]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.658249,24.15579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La:tRee brunch 樹兒早午餐</name>
+				<description><![CDATA[La:tRee brunch 樹兒早午餐<br> 電話：04-23148121<br> 地址：台中市博館路233號<br> 營業時間：09:30~18:00 周一休]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.66129,24.158844,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rafiki Cafe</name>
+				<description><![CDATA[Rafiki Cafe<br> 地址：台中市英才路625號(文化中心對面)<br> 電話：04-23757091<br> 營業時間：營業時間:10 am-9:30 pm (周末假日09:00開，週四休)<br> 官網：http://www.rafiki.com.tw/]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.666081,24.142061,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>田樂</name>
+				<description><![CDATA[for Farm Burger 田樂<br> <br> 田樂地址: 台中市西區美村路一段102巷1號 <br> <br> 田樂GPS座標: E 120°39'40" ( 120.6613) N 24°09'07" ( 24.1519)<br> <br> 試買營業時間:   13:30-17:00(午茶) 18:00-20:00(漢堡) (last order) 試賣定休｜周一、二]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.66130700000001,24.151969,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name> 目覺咖啡 二店 低調好空間</name>
+				<description><![CDATA[｜店家資訊｜<br> <br> [台中]目覺二店（消費時間：2013/02）<br> <br> 地址：407台中市西屯區大恩街8號／Google地圖<br> 電話：04 2310 2616<br> 營業時間：0800-1900<br> 價位消費方式：150元/人。現金。無服務費<br> 停車：機車，可。汽車，路邊停車，可停新市政]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.648761,24.158568000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>目覺咖啡 目覺三店</name>
+				<description><![CDATA[目覺咖啡 目覺三店<br> <br> 04-23292566<br> <br> 台中市精誠七街1號]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.65625300000002,24.155145,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>似棲咖啡 47 CAFE</name>
+				<description><![CDATA[似棲咖啡 47 CAFE<br> <br> 地址：台中市惠中路2段47號<br> 電話：04-22589059<br> 營業時間：週二~六  10:00~20:00 / 週日 10:00~18:00  (週一休)]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.640879,24.15561,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>胡同咖啡</name>
+				<description><![CDATA[胡同咖啡<br> http://whotogether.pixnet.net/blog<br> 地址：台中市精誠九街16巷3號<br> 電話：04-23198378<br> 營業時間：平日pm13:00-pm22:00<br>               假日am11:00-pm22:00(週二公休)]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.65669199999999,24.153227,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>櫸木咖啡</name>
+				<description><![CDATA[櫸木咖啡<br> 電話：04-22599002<br> 地址：台中市市政北一路12號<br> 營業時間：08:00~20:00]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.645906,24.157566,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LAbbito Cafe</name>
+				<description><![CDATA[地址：台中市西區中興街122巷1號1樓 <br>電話：04-2302-2122 <br>營業時間：<br>週一至週五，11:00~20:00 <br>週六至週日，10:00~22:00 <br>(每週二及每個月第二&四周的星期一公休)]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.663389,24.148491,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Funny Seals</name>
+				<description><![CDATA[台中市北區華中街56號<br>04-2203 2688<br>8:00 am - 16:00 pm (週二休)<br><br>http://funnyseals.com/<br>http://akane77.pixnet.net/blog/post/356329511]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.672249,24.158599,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>叛逆因子咖啡館</name>
+				<description><![CDATA[叛逆因子咖啡館<br>■訂餐電話:04-2378-0990<br>■店家地址:台中市西 區五權西四街128-2號<br>■營業時間:07:00~21:00<br>■免收服務費、提供無線上網服務<br>■低消為一杯飲品<br>http://joyce00927.pixnet.net/blog/post/43326703-%E3%80%90%E5%8F%B0%E4%B8%AD%E3%80%91%E5%8F%9B%E9%80%86%E5%9B%A0%E5%AD%90%E5%92%96%E5%95%A1%E9%A4%A8%E3%80%82%E5%95%9F%E5%8B%95%E9%AA%A8%E5%AD%90%E8%A3%A1%E7%9A%84%E5%8F%9B%E9%80%86]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.662445,24.134804000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>和茗甘味處</name>
+				<description><![CDATA[台中和茗甘味處FB：https://www.facebook.com/myowacafe.Taichung?fref=ts<br><br>地址：台中市西區模範街40巷22號營業時間：PM1:00~每日限量賣完為止]]></description>
+				<styleUrl>#icon-35</styleUrl>
+				<Point>
+					<coordinates>120.66743799999999,24.149349,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-35-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/35-coffeehouse.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-35-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/35-coffeehouse.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-35'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-35-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-35-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
