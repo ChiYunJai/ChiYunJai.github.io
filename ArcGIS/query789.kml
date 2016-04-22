@@ -26,8 +26,8 @@
       </PolyStyle>
       <LineStyle>
         <color>ffaabbcc</color>
-        <!--<colorMode>normal</colorMode>
-        <width>3</width>-->
+        <colorMode>normal</colorMode>
+        <width>3</width>
       </LineStyle>
       <LabelStyle>
         <colorMode>normal</colorMode>
