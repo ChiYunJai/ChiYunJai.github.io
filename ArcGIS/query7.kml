@@ -20,7 +20,7 @@
     <Style id="myColor">
       <PolyStyle>
         <color>ffaabbcc</color>
-        <colorMode>normal</colorMode>
+        <!--<colorMode>normal</colorMode>-->
         <Fill>0</Fill>
         <!--<Outline>1</Outline>-->
       </PolyStyle>
